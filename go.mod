@@ -1,4 +1,4 @@
-module elk-log
+module zjl-elk-logs
 
 go 1.18
 
