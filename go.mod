@@ -1,4 +1,4 @@
-module elk-log
+module github.com/artstylecode/elk-log
 
 go 1.18
 
